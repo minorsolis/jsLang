@@ -21,7 +21,7 @@ Javascript Translation: Simple, light, add all the languages that you want, comp
 
 **Step 3** Translate
 
-```html
+```
 $( document ).ready(function() {
     $("#title1").html("H1 Title");
     $("#inputDemo").attr("value","Click the button");
@@ -31,8 +31,11 @@ $( document ).ready(function() {
 
 ## What's next?
 
-To change it so it don't depend on JQuery..
+Create a new version that don't have to depend on JQuery..
 
-## Tags
+## Tags (keywords)
 
-javascript translate, jQuery translate, translaste with javascript, traducir con javascript.
+* javascript translate
+* jQuery translate
+* translaste with javascript
+* traducir con javascript
