@@ -1,4 +1,4 @@
-# jsLang;
+# jsLang
 ======
 
 Javascript Translation: Simple, light, add all the languages that you want, compatible with `bootstrap`, it only requires `JQuery`.
@@ -21,7 +21,7 @@ Javascript Translation: Simple, light, add all the languages that you want, comp
 
 **Step 3** Translate
 
-```
+```javascript
 $( document ).ready(function() {
     $("#title1").html("H1 Title");
     $("#inputDemo").attr("value","Click the button");
