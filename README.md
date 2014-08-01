@@ -37,5 +37,5 @@ Create a new version that don't have to depend on JQuery..
 
 * javascript translate
 * jQuery translate
-* translaste with javascript
+* translate with javascript
 * traducir con javascript
