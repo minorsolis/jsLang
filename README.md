@@ -19,7 +19,7 @@ Javascript Translation: Simple, light, add all the languages that you want, comp
 <input type="text" name="inputDemo" id="inputDemo" value="" />
 ```
 
-**Step 3** Translate
+**Step 3** Translate: /js/language/english_lang.js
 
 ```javascript
 $( document ).ready(function() {
